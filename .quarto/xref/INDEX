@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "59cd5f25"
+  },
+  "posts.qmd": {
+    "posts.html": "79a3563f"
+  },
+  "posts/classification/Classification_Final.ipynb": {
+    "Classification_Final.html": "427bd5f8"
+  },
+  "posts/regression/Regression.ipynb": {
+    "Regression.html": "835efbde"
+  },
+  "posts/anomaly/Anomaly-detection.ipynb": {
+    "Anomaly-detection.html": "600db931"
+  },
+  "posts/clustering/Clustering.ipynb": {
+    "Clustering.html": "f6d5616e"
+  },
+  "posts/probability/Concentration_Bound.ipynb": {
+    "Concentration_Bound.html": "a6f24390"
+  },
+  "about.qmd": {
+    "about.html": "7f239143"
+  }
+}
